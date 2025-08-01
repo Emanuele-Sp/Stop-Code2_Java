@@ -51,7 +51,7 @@ public class Automobile extends Veicolo {
                 continue;
             }
 
-            break; // tutto ok
+            break; 
         }
 
 
@@ -187,3 +187,4 @@ public class Automobile extends Veicolo {
                 ;
     }
 }
+
