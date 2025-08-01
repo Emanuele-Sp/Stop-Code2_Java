@@ -53,7 +53,7 @@ public class Motocicletta extends Veicolo{
                 continue;
             }
 
-            break; // tutto ok
+            break; 
         }
 
 
