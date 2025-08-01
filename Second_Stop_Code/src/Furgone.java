@@ -64,7 +64,7 @@ public class Furgone extends Veicolo {
                 continue;
             }
 
-            break; // tutto ok
+            break; 
         }
 
 
